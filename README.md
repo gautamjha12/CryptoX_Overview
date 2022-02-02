@@ -16,4 +16,4 @@ The team is super dedicated in making CryptoX a leading News Platform where user
 <img src = "cX_images/6.png" width = "200">
 <img src = "cX_images/7.png" width = "200">
 
-We are always receptive to new ideas so let's brew something up. You can write to us help.cryptox@gmail.com
+We are always receptive to new ideas so let's brew something up. You can write to us <a href="mailto:help.cryptox@gmail.com" target="_blank">help.cryptox@gmail.com</a> 
