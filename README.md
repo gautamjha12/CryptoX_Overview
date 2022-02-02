@@ -17,3 +17,4 @@ The team is super dedicated in making CryptoX a leading News Platform where user
 <img src = "cX_images/7.png" width = "200">
 
 We are always receptive to new ideas so let's brew something up. You can write to us <a href="mailto: help.cryptox@gmail.com">help.cryptox@gmail.com</a> 
+<a href="mailto:someone@yoursite.com">Email Us</a>  
