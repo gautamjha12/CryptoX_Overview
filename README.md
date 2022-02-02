@@ -9,5 +9,11 @@ The team is super dedicated in making CryptoX a leading News Platform where user
 ### Here are some images of the app in the final stage of production
 
 <img src = "cX_images/1.png" width = "200">
+<img src = "cX_images/2.png" width = "200">
+<img src = "cX_images/3.png" width = "200">
+<img src = "cX_images/4.png" width = "200">
+<img src = "cX_images/5.png" width = "200">
+<img src = "cX_images/6.png" width = "200">
+<img src = "cX_images/7.png" width = "200">
 
 We are always receptive to new ideas so let's brew something up. You can write to us help.cryptox@gmail.com
