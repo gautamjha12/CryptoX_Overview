@@ -1,6 +1,6 @@
 # CryptoX_Overview
 
-CryptoX is a next-gen M.L powered blockchain news aggregator application which brings you the latest news updates from all over the globe with 50+ sources and data of more than 8000 coins. It is a collaborative between Gautam Jha and <a href="#"> Jayesh Jain. </a>
+CryptoX is a next-gen M.L powered blockchain news aggregator application which brings you the latest news updates from all over the globe with 50+ sources and data of more than 8000 coins. It is a collaborative between Gautam Jha and <a href="https://github.com/JayeshJain25"> Jayesh Jain. </a>
 
 The main motive behind the app is to bring all the updates from the cryptocurrency market ranging from the latest news to price updates of thousands of coins and tokens to a single destination where one could easily stay updated with the constantly evolving space.
 
