@@ -6,6 +6,8 @@ The main motive behind the app is to bring all the updates from the cryptocurren
 
 The team is super dedicated in making CryptoX a leading News Platform where users from all over the globe can access information. We also intend to make a complete guide within the app for beginners to enter the cryptocurrency market. The NFT section within the app will serve as a place where you could learn about NFT's from scratch. We will be actively contributing to the app after it's release as per the planned roadmap and keep it growing.
 
-# Here are some images of the app in the final stage of production
+### Here are some images of the app in the final stage of production
+
+<img src = "cX_images/1.png" width = "200">
 
 We are always receptive to new ideas so let's brew something up. You can write to us help.cryptox@gmail.com
